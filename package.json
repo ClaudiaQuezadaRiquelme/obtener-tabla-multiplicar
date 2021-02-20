@@ -1,0 +1,15 @@
+{
+  "name": "obtener-tabla-multiplicar",
+  "version": "1.0.0",
+  "description": "Aplicacion por consola que recibe un numero correspondiente a una tabla de multiplicar y exporta un archivo con dicha tabla del 1 al 10.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudia Quezada",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
